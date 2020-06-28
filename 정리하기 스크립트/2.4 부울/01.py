@@ -1,0 +1,1 @@
+print(True + True + False)      # 1 + 1 + 0 과 사실상 동치

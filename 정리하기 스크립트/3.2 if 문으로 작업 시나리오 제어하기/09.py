@@ -1,0 +1,5 @@
+print('a' not in ('a', 'b', 'c', 'd'))
+print('b' not in ['a', 'b', 'c', 'd'])
+print('c' not in {'a', 'b', 'c', 'd'})
+print('d' not in {'a': 0, 'b': 1, 'c': 2, 'd': 3})
+print('e' not in 'abcd')
